@@ -5,6 +5,8 @@ How to use
 1. Install Python from python.org
 2. Open Windows PowerShell
 3. cd "path to screener.py"
+
+The following outputs can be used with LLMs to sanity-check it
    
 python screener.py       # gives coins with triggers to enter trades
 
