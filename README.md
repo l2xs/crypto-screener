@@ -19,3 +19,6 @@ python screener.py --min-score 2       # see more candidates, looser bar
 python screener.py --min-score 4       # only perfect convergence
 
 python screener.py --signal       # full deterministic trade setup
+
+Support further development:
+USDT TRC20: TZ3Xc2j2Qu9DpLP6VnCJ2GzLM8D9VN85XW
