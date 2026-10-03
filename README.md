@@ -1,5 +1,5 @@
 # crypto-screener
-Helps find coins with available entry points for trades
+Helps find coins/stocks with available entry points for trades
 
 Disclaimer:
 This software is for educational purposes only. Do not risk money you cannot afford to lose.
